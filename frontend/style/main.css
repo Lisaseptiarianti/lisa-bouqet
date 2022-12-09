@@ -1,0 +1,140 @@
+.navbar-brand {
+    font-family: 'monstserrat';
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.nav-item {
+    font-family: 'monserrat';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+
+
+}
+
+.nav-item .nav-link.active {
+    font-weight: 600;
+    color: rgba(214, 133, 176, 0.33) !important;
+}
+
+.nav-link {
+    color: #000000 !important;
+}
+
+.nav-link:hover {
+    color: rgba(214, 133, 176, 0.33) !important;
+
+}
+
+/* Hero Section */
+.hero-section {
+    margin-top: 42px;
+}
+
+.hero-section h1 {
+    margin-top: 42px;
+    font-family: 'poppins';
+    font-weight: 600px;
+    font-size: 52px;
+}
+
+.hero-section .btn-cta {
+    margin-top: 75px;
+}
+
+.hero-section .btn {
+    margin-left: 15px;
+}
+
+.hero-section .btn-cta-img {
+    width: 67px;
+}
+/* Akhir Hero Section */
+
+/* Description text */
+.description-text {
+    margin-top: 55px;
+    font-family: 400;
+    font-size: 20px;
+    text-align: center;
+}
+/* Akhir Description text */
+
+/* Best Seller */
+.section-title {
+    margin-top: 55px;
+    font-family: 'poppins';
+    font-weight: 700;
+    font-size: 34px;
+    color: #000000;
+}
+.component-prodect {
+    margin-top: 15px;
+    text-decoration: none;
+    transform: scale(1.1);
+    transition: all 0,2s ease ease-in-out;
+}
+
+.product-img {
+    margin-top: 15px;
+    background: #f6fafd;
+
+    transition: all 0,3s ease;
+}
+
+.product-text {
+    font-family: 'poppins';
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.product-price {
+    font-family: 'poppins';
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: red;
+}
+/* Tutup Best Seller */
+
+/* Tampilkan Semua */
+.tampilkan-semua {
+    margin-top: 75px;
+    font-weight: 700;
+    font-size: 86px;
+    text-align: center;
+}
+/* Akhir Tampilkan Semua */
+
+/* Footer */
+.footer {
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #eaadce;
+}
+
+.footer-small {
+    background-color: rgba(241, 29, 142, 0.33);
+    text-align: center;
+}
+
+.footer-small p {
+    font-family: 'poppins';
+    font-weight: 300;
+    font-size: 16px;
+    margin-top: 30px;
+    color: #f6fafd;
+}
+
+.footer-small a {
+    font-weight: 500;
+    font-size: 16px;
+    text-decoration: none;
+
+    color: red;
+}
+/* Akhir Footer */

@@ -1,0 +1,68 @@
+.navbar-brand {
+    font-family: 'monstserrat';
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.nav-item {
+    font-family: 'monserrat';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+
+
+}
+
+.nav-item .nav-link.active {
+    font-weight: 600;
+    color: rgba(217, 137, 179, 0.33) !important;
+}
+
+.nav-link {
+    color: #000000 !important;
+}
+
+.nav-link:hover {
+    color: rgba(214, 133, 176, 0.33) !important;
+
+} 
+
+/* Mini Size */
+.section-title {
+    margin-top: 55px;
+    font-family: 'poppins';
+    font-weight: 700;
+    font-size: 34px;
+    color: #000000;
+}
+.component-prodect {
+    margin-top: 15px;
+    text-decoration: none;
+    transform: scale(1.1);
+
+    transition: all 0,2s ease;
+}
+
+.product-img {
+    margin-top: 15px;
+    background: #f6fafd;
+
+    transition: all 0,3s ease;
+}
+
+.product-text {
+    font-family: 'poppins';
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.product-price {
+    font-family: 'poppins';
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: red;
+}
+/* Tutup Mini Size */
